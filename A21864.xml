@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Where the Queenes most excellent Maiestie, being giuen to vnderstand of a very great outrage lately committed by some apprentices, and others being masterlesse men, and vagrant persons, in and about the suburbs of the citie of London  ...</title>
+            <title>Proclamations. 1590-09-24</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21864</idno>
+            <idno type="STC">STC 8196</idno>
+            <idno type="STC">ESTC S115431</idno>
+            <idno type="EEBO-CITATION">99850650</idno>
+            <idno type="PROQUEST">99850650</idno>
+            <idno type="VID">15871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Where the Queenes most excellent Maiestie, being giuen to vnderstand of a very great outrage lately committed by some apprentices, and others being masterlesse men, and vagrant persons, in and about the suburbs of the citie of London  ...</title>
+                  <title>Proclamations. 1590-09-24</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie [i.e. B. Norton and J. Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>ca. 1618] 1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printers' names and suggested publication date from STC.</note>
+                  <note>Setting a 6 day curfew in London for apprentices and other disorderly persons.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+               <term>Apprentices --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15871:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Here by Queenes moſt Excellent Maie<g ref="char:EOLhyphen"/>ſtie,</hi> being giuen to vnderſtand of a very great outrage lately committed by ſome Apprentices, and others being Maſterleſſe men, and vagrant perſons, in and about the Suburbs of the Citie of London, in aſſaulting of the houſe of Lincolnes Inne, and the breaking and ſpoyling of diuers Chambers in the ſaid Houſe, which offences her Highneſſe is minded to haue to be duely examined, and thereupon aſwel the offenders therein, as alſo ſuch perſons of the ſaid Houſe of Lincolnes Inne, as did by any meanes giue any occaſion to prouoke the ſame vnlawfull outrage, to be duely and very ſeuerely puniſhed according to their deme<g ref="char:EOLhyphen"/>rits; hath therefore thought good for the better auoyding of ſuch like outrages hereafter (by the aduiſe of Her Maieſties Priuie Counſell) ſtraightly to charge &amp; command all ſuch as be any Houſholders within the ſeuerall Pariſhes of <hi>S. Dunſtanes, S. Brides, S. Andrewes</hi> in Holborne, <hi>S. Giles</hi> in the field, <hi>S. Martin</hi> in the field, the <hi>Strond</hi> &amp; <hi>S. Clement</hi> without the Temple Barre, that they and euery of them, doe cauſe all their Apprentices, Iourneymen, Ser<g ref="char:EOLhyphen"/>uants and family in their ſeuerall houſes, other then ſuch as ſhall bee appointed to keepe ſeuerall Watches, to tarry and abide within their ſeuerall houſes, and not to be ſuffered to goe abroad after Nine of the clocke at night, vpon paine of impriſonment. And that all Conſtables, pettie Conſtables, and others being appointed to keepe any Watch or Wat<g ref="char:EOLhyphen"/>ches, finding any ſuch Apprentices, Iourneymen or ſeruants, wandering abroad out of their Maſter his Houſe after Nine of the clocke in the night, ſhall not onely take and com<g ref="char:EOLhyphen"/>mit ſuch perſon to priſon, but alſo ſhal warne and command the Maſter of euery ſuch per<g ref="char:EOLhyphen"/>ſon to come and appeare before the Alderman or his Deputie of that Ward, (if he be within the Liberties of the Citie of London) or elſe before ſome Iuſtices of Peace, if hee be with<g ref="char:EOLhyphen"/>out the Libertie of the Citie, there to anſwere to his contempt, for ſuffering his Appren<g ref="char:EOLhyphen"/>tiſe or Seruant ſo to goe abroad, contrary to this Her Maieſties expreſſe commandement.</p>
+            <p>And Her Maieſties further pleaſure is, that this order ſhall bee by euery of the ſaid Houſholders duely obſerued and kept, for, and during the ſpace of Sixe dayes, next enſu<g ref="char:EOLhyphen"/>ing the date of this Proclamation.</p>
+            <p>And further, her Highneſſe doeth ſtraightly charge command all ſuch perſons as be Maſterleſſe men, and other vagrant perſons, not hauing wherewith to maintain-themſelues, and being or abiding in any the Pariſhes aforeſaid, That they and euery of them, doe preſently depart from hence to the ſeuerall places where they were borne, vpon paine of impriſonment.</p>
+            <closer>
+               <dateline>Giuen at Ely place <date>the xxiiij. day of September, in the xxxij. yeere of her Maieſties moſt gratious Raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt Excellent Maieſtie. 1590.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
